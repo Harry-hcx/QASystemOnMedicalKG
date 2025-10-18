@@ -1,3 +1,7 @@
+# How to Build
+
+安装Neo4j 4.x版本，导入我给的数据库/使用build_medicalgraph导入（耗时1小时多），运行gui_chatbot.py。
+
 # QABasedOnMedicaKnowledgeGraph
 self-implement of disease centered Medical graph from zero to full and sever as question answering base. 从无到有搭建一个以疾病为中心的一定规模医药领域知识图谱，并以该知识图谱完成自动问答与分析服务。
 
